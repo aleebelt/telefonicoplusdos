@@ -1,0 +1,26 @@
+body { 
+    background: rgba(125, 126, 165, 0.774)!important;
+}
+img {
+    width: 280;
+height: 250px;
+}
+iframe{
+    display: block;
+    margin:  auto;
+    margin-left: 55px;
+}
+#container{
+text-align: center;
+}
+#img{
+   transition : width 4s, border-radius 1s;
+   width: 380px;
+}
+#img:hover{
+width: 700px;
+border-radius: 50%;
+}
+.texto{
+    text-align: center;
+}
